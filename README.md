@@ -7,9 +7,13 @@
 Data downloaded from API to MySQL tables have been done with the following parameters
 
 <api_secret>  : w5a6tj96tbvq39u74wmtyamd
+
 <zip_code> : 78701
+
 <start_date> : 2020-11-11
+
 <line_up_id> : USA-TX42500-X
+
 <date_time> : Current date with time (ISO 8601) eg. 2020-11-11T09:30Z
 
 # Download the data of theatre_movies >> 
