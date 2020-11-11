@@ -20,13 +20,13 @@ list movies based on genres >> localhost:5000/api/movies/theatre_movie/Horror/li
 
 Top genres >> localhost:5000/api/top_5_genres
 
-================================================================================================
+======================================================
 
 The MySQL database is called pytms
 you may find its dump in the root directory with the name : pytms_database_dump.sql
 
-================================================================================================
+======================================================
 
 NOTE: This is my first time to use pandas lib and its dataframe. I covered it from an on-the-fly article.. It's amazing for real! Execuse me if i misused it. I gonna ramp myself up using series and dataframe of pandas.
 
-================================================================================================
+======================================================
