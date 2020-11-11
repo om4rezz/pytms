@@ -12,13 +12,19 @@ Data downloaded from API to MySQL tables have been done with the following param
 <line_up_id> : USA-TX42500-X
 <date_time> : Current date with time (ISO 8601) eg. 2020-11-11T09:30Z
 
-Download the data of theatre_movies >> localhost:5000/api/get_theatre_movies/2020-11-11/78701/w5a6tj96tbvq39u74wmtyamd
+# Download the data of theatre_movies >> 
+localhost:5000/api/get_theatre_movies/2020-11-11/78701/w5a6tj96tbvq39u74wmtyamd
 
-Download the data of tv_airing_movies >> localhost:5000/api/get_tv_movies/USA-TX42500-X/2020-11-11T19%3A00Z/w5a6tj96tbvq39u74wmtyamd
+# Download the data of tv_airing_movies >> 
+localhost:5000/api/get_tv_movies/USA-TX42500-X/2020-11-11T19%3A00Z/w5a6tj96tbvq39u74wmtyamd
 
-list movies based on genres >> localhost:5000/api/movies/theatre_movie/Horror/list OR localhost:5000/api/movies/tv_movie/Horror/list
+# list movies based on genres >> 
+localhost:5000/api/movies/theatre_movie/Horror/list 
+OR
+localhost:5000/api/movies/tv_movie/Horror/list
 
-Top genres >> localhost:5000/api/top_5_genres
+# Top genres >> 
+localhost:5000/api/top_5_genres
 
 ======================================================
 
@@ -27,6 +33,7 @@ you may find its dump in the root directory with the name : pytms_database_dump.
 
 ======================================================
 
-NOTE: This is my first time to use pandas lib and its dataframe. I covered it from an on-the-fly article.. It's amazing for real! Execuse me if i misused it. I gonna ramp myself up using series and dataframe of pandas.
+# NOTE:
+This is my first time to use pandas lib and its dataframe. I covered it from an on-the-fly article.. It's amazing for real! Execuse me if i misused it. I gonna ramp myself up using series and dataframe of pandas.
 
 ======================================================
