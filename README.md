@@ -14,7 +14,7 @@ Data downloaded from API to MySQL tables have been done with the following param
 
 <line_up_id> : USA-TX42500-X
 
-<date_time> : Current date with time (ISO 8601) eg. 2020-11-11T09:30Z
+<date_time> : 2020-11-11T09:30Z
 
 # Download the data of theatre_movies >> 
 localhost:5000/api/get_theatre_movies/2020-11-11/78701/w5a6tj96tbvq39u74wmtyamd
