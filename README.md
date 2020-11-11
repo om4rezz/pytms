@@ -4,7 +4,7 @@
 
 # install the requirements >> $ pip install -r requirements.txt
 
-Data downloaded from API to MySQL tables have been done with the following parameters
+Captured data from API to MySQL tables have been grabbed with the following parameters:
 
 <api_secret>  : w5a6tj96tbvq39u74wmtyamd
 
